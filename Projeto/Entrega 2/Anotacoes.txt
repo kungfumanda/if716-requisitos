@@ -1,0 +1,14 @@
+Mudanças
+- Organização e adição de goals e qualidades
+- Salvar convite (task) -> Receber convite (goal)
+- Lista de convidados (resource - listar convidados para contabilizar...) -> (resource - contabilizar para listar convidados...)
+obs. fez mais sentido pra mim que para listar seja necessário a lista
+- Catálogo de serviços -> Enviar solicitação de serviços com resource do documento com serviços desejados
+- Dados do serviço -> informações de data e local
+- Descrição clara -> Resposta rapida
+obs. pelo que entendi, a contribuição é pra que a qualidade seja atingida
+
+Questionamentos
+- Diferença entre serviços padrão vs serviço personalizado e como o cliente faz essa solicitação (é direto no formulário do evento?); talvez fosse interessante a gente trocar o nome do serviço padrão pra algo como pacote básico porém não sei, resolvi não mexer muito nisso até a gente decidir
+- Quem precisa do formulario também ficou um pouco confuso pra mim (comentando o comentário de mel no vídeo), então talvez seja interessante a gente ver isso juntas
+- Talvez o suporte ao fornecedor possa ser na verdade "Contato com o fornecedor"
