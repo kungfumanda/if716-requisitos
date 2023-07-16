@@ -1,0 +1,9 @@
+Refazer segunda entrega para tirar o sistema
+Fazer a modelagem 'to be' incluindo sistema
+
+- Especificar fluxo de serviços
+- Colocar mais qualidades
+- Refinar tarefas (criar filhos)
+- Contabilizar número de participantes -> Separar necessidade da lista e da confirmação (subtarefas)
+- Não precisa aumentar a quantidade de autores, porém autores precisam ser mais ricos
+- Aumentar detalhes do ADM do sistema
